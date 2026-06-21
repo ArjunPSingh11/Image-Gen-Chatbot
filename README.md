@@ -1,3 +1,7 @@
+## 🚀 Live Demo->
+https://image-gen-chatbot-or7jtbvxb9zfnv9rwxnznv.streamlit.app/
+
+
 # PixelMind – AI Image Studio 🎨
 
 A clean, deployable **AI image generation chatbot** built with Python and Streamlit. Type a prompt, pick a style, and generate stunning AI images powered by the [FLUX.1-schnell](https://huggingface.co/black-forest-labs/FLUX.1-schnell) model via the HuggingFace Inference API.
